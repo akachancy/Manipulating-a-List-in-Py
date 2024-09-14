@@ -2,7 +2,7 @@
 
 # Python List
 
-my_car = ["Nissan GTR", "", "Lamborghini HUracan", "Toyota Supra"]
+my_car = ["Nissan GTR", "Lamborghini Huracan", "Toyota Supra"]
 
 del my_car[-1]
 
